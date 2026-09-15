@@ -1,0 +1,1 @@
+This is a GitHub Pages-ready static site for the portfolio. The project cards point to the analysis folders in this repository.
